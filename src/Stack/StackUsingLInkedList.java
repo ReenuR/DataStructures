@@ -1,3 +1,5 @@
+package Stack;
+
 public class StackUsingLInkedList {
 
     private Node top;
